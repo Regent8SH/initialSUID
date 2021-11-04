@@ -6,7 +6,7 @@ Removes any exteremly common SUID binaries from the SUID search. Will update as 
 
 Usage:
 
-./suickSUID.py
+./quickSUID.py
 
 '''
 
